@@ -4,4 +4,3 @@ __pycache__
 test_django
 db.sqlite3
 .DS_Store
-static/
